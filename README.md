@@ -3,6 +3,7 @@ This repository includes assignments and projects of Artificial Intelligence cou
 
 - [HW1](HW1/)
 - [HW2](HW2/)
+- [HW2-Computer](https://github.com/amirhallaji/Artificial-Intelligence-Genetic)
 - [HW3](HW3/)
 - [HW4](HW4/)
 - [HW5](HW5/)
